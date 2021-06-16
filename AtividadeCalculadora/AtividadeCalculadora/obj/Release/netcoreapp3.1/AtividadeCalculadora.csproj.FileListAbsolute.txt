@@ -1,0 +1,13 @@
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Release\netcoreapp3.1\AtividadeCalculadora.exe
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Release\netcoreapp3.1\AtividadeCalculadora.deps.json
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Release\netcoreapp3.1\AtividadeCalculadora.runtimeconfig.json
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Release\netcoreapp3.1\AtividadeCalculadora.runtimeconfig.dev.json
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Release\netcoreapp3.1\AtividadeCalculadora.dll
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\bin\Release\netcoreapp3.1\AtividadeCalculadora.pdb
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Release\netcoreapp3.1\AtividadeCalculadora.csproj.AssemblyReference.cache
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Release\netcoreapp3.1\AtividadeCalculadora.AssemblyInfoInputs.cache
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Release\netcoreapp3.1\AtividadeCalculadora.AssemblyInfo.cs
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Release\netcoreapp3.1\AtividadeCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Release\netcoreapp3.1\AtividadeCalculadora.dll
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Release\netcoreapp3.1\AtividadeCalculadora.pdb
+C:\Users\786\source\repos\AtividadeCalculadora\AtividadeCalculadora\obj\Release\netcoreapp3.1\AtividadeCalculadora.genruntimeconfig.cache

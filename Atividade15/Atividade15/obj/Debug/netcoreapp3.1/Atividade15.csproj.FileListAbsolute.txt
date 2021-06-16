@@ -1,0 +1,13 @@
+C:\Users\786\source\repos\Atividade15\Atividade15\bin\Debug\netcoreapp3.1\Atividade15.exe
+C:\Users\786\source\repos\Atividade15\Atividade15\bin\Debug\netcoreapp3.1\Atividade15.deps.json
+C:\Users\786\source\repos\Atividade15\Atividade15\bin\Debug\netcoreapp3.1\Atividade15.runtimeconfig.json
+C:\Users\786\source\repos\Atividade15\Atividade15\bin\Debug\netcoreapp3.1\Atividade15.runtimeconfig.dev.json
+C:\Users\786\source\repos\Atividade15\Atividade15\bin\Debug\netcoreapp3.1\Atividade15.dll
+C:\Users\786\source\repos\Atividade15\Atividade15\bin\Debug\netcoreapp3.1\Atividade15.pdb
+C:\Users\786\source\repos\Atividade15\Atividade15\obj\Debug\netcoreapp3.1\Atividade15.csproj.AssemblyReference.cache
+C:\Users\786\source\repos\Atividade15\Atividade15\obj\Debug\netcoreapp3.1\Atividade15.AssemblyInfoInputs.cache
+C:\Users\786\source\repos\Atividade15\Atividade15\obj\Debug\netcoreapp3.1\Atividade15.AssemblyInfo.cs
+C:\Users\786\source\repos\Atividade15\Atividade15\obj\Debug\netcoreapp3.1\Atividade15.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\Atividade15\Atividade15\obj\Debug\netcoreapp3.1\Atividade15.dll
+C:\Users\786\source\repos\Atividade15\Atividade15\obj\Debug\netcoreapp3.1\Atividade15.pdb
+C:\Users\786\source\repos\Atividade15\Atividade15\obj\Debug\netcoreapp3.1\Atividade15.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\786\source\repos\Atividade7\Atividade7\bin\Debug\netcoreapp3.1\Atividade7.exe
+C:\Users\786\source\repos\Atividade7\Atividade7\bin\Debug\netcoreapp3.1\Atividade7.deps.json
+C:\Users\786\source\repos\Atividade7\Atividade7\bin\Debug\netcoreapp3.1\Atividade7.runtimeconfig.json
+C:\Users\786\source\repos\Atividade7\Atividade7\bin\Debug\netcoreapp3.1\Atividade7.runtimeconfig.dev.json
+C:\Users\786\source\repos\Atividade7\Atividade7\bin\Debug\netcoreapp3.1\Atividade7.dll
+C:\Users\786\source\repos\Atividade7\Atividade7\bin\Debug\netcoreapp3.1\Atividade7.pdb
+C:\Users\786\source\repos\Atividade7\Atividade7\obj\Debug\netcoreapp3.1\Atividade7.AssemblyInfoInputs.cache
+C:\Users\786\source\repos\Atividade7\Atividade7\obj\Debug\netcoreapp3.1\Atividade7.AssemblyInfo.cs
+C:\Users\786\source\repos\Atividade7\Atividade7\obj\Debug\netcoreapp3.1\Atividade7.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\Atividade7\Atividade7\obj\Debug\netcoreapp3.1\Atividade7.dll
+C:\Users\786\source\repos\Atividade7\Atividade7\obj\Debug\netcoreapp3.1\Atividade7.pdb
+C:\Users\786\source\repos\Atividade7\Atividade7\obj\Debug\netcoreapp3.1\Atividade7.genruntimeconfig.cache

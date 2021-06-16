@@ -1,0 +1,13 @@
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\bin\Debug\netcoreapp3.1\Nivel4.26.exe
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\bin\Debug\netcoreapp3.1\Nivel4.26.deps.json
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\bin\Debug\netcoreapp3.1\Nivel4.26.runtimeconfig.json
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\bin\Debug\netcoreapp3.1\Nivel4.26.runtimeconfig.dev.json
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\bin\Debug\netcoreapp3.1\Nivel4.26.dll
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\bin\Debug\netcoreapp3.1\Nivel4.26.pdb
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\obj\Debug\netcoreapp3.1\Nivel4.26.csproj.AssemblyReference.cache
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\obj\Debug\netcoreapp3.1\Nivel4.26.AssemblyInfoInputs.cache
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\obj\Debug\netcoreapp3.1\Nivel4.26.AssemblyInfo.cs
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\obj\Debug\netcoreapp3.1\Nivel4.26.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\obj\Debug\netcoreapp3.1\Nivel4.26.dll
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\obj\Debug\netcoreapp3.1\Nivel4.26.pdb
+C:\Users\786\source\repos\Nivel4.26\Nivel4.26\obj\Debug\netcoreapp3.1\Nivel4.26.genruntimeconfig.cache

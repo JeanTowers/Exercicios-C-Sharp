@@ -1,0 +1,13 @@
+C:\Users\786\source\repos\Atividade8\Atividade8\bin\Debug\netcoreapp3.1\Atividade8.exe
+C:\Users\786\source\repos\Atividade8\Atividade8\bin\Debug\netcoreapp3.1\Atividade8.deps.json
+C:\Users\786\source\repos\Atividade8\Atividade8\bin\Debug\netcoreapp3.1\Atividade8.runtimeconfig.json
+C:\Users\786\source\repos\Atividade8\Atividade8\bin\Debug\netcoreapp3.1\Atividade8.runtimeconfig.dev.json
+C:\Users\786\source\repos\Atividade8\Atividade8\bin\Debug\netcoreapp3.1\Atividade8.dll
+C:\Users\786\source\repos\Atividade8\Atividade8\bin\Debug\netcoreapp3.1\Atividade8.pdb
+C:\Users\786\source\repos\Atividade8\Atividade8\obj\Debug\netcoreapp3.1\Atividade8.csproj.AssemblyReference.cache
+C:\Users\786\source\repos\Atividade8\Atividade8\obj\Debug\netcoreapp3.1\Atividade8.AssemblyInfoInputs.cache
+C:\Users\786\source\repos\Atividade8\Atividade8\obj\Debug\netcoreapp3.1\Atividade8.AssemblyInfo.cs
+C:\Users\786\source\repos\Atividade8\Atividade8\obj\Debug\netcoreapp3.1\Atividade8.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\Atividade8\Atividade8\obj\Debug\netcoreapp3.1\Atividade8.dll
+C:\Users\786\source\repos\Atividade8\Atividade8\obj\Debug\netcoreapp3.1\Atividade8.pdb
+C:\Users\786\source\repos\Atividade8\Atividade8\obj\Debug\netcoreapp3.1\Atividade8.genruntimeconfig.cache

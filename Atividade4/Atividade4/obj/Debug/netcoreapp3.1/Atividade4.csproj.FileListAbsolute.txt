@@ -1,0 +1,13 @@
+C:\Users\786\source\repos\Atividade4\Atividade4\bin\Debug\netcoreapp3.1\Atividade4.exe
+C:\Users\786\source\repos\Atividade4\Atividade4\bin\Debug\netcoreapp3.1\Atividade4.deps.json
+C:\Users\786\source\repos\Atividade4\Atividade4\bin\Debug\netcoreapp3.1\Atividade4.runtimeconfig.json
+C:\Users\786\source\repos\Atividade4\Atividade4\bin\Debug\netcoreapp3.1\Atividade4.runtimeconfig.dev.json
+C:\Users\786\source\repos\Atividade4\Atividade4\bin\Debug\netcoreapp3.1\Atividade4.dll
+C:\Users\786\source\repos\Atividade4\Atividade4\bin\Debug\netcoreapp3.1\Atividade4.pdb
+C:\Users\786\source\repos\Atividade4\Atividade4\obj\Debug\netcoreapp3.1\Atividade4.csproj.AssemblyReference.cache
+C:\Users\786\source\repos\Atividade4\Atividade4\obj\Debug\netcoreapp3.1\Atividade4.AssemblyInfoInputs.cache
+C:\Users\786\source\repos\Atividade4\Atividade4\obj\Debug\netcoreapp3.1\Atividade4.AssemblyInfo.cs
+C:\Users\786\source\repos\Atividade4\Atividade4\obj\Debug\netcoreapp3.1\Atividade4.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\Atividade4\Atividade4\obj\Debug\netcoreapp3.1\Atividade4.dll
+C:\Users\786\source\repos\Atividade4\Atividade4\obj\Debug\netcoreapp3.1\Atividade4.pdb
+C:\Users\786\source\repos\Atividade4\Atividade4\obj\Debug\netcoreapp3.1\Atividade4.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\786\source\repos\Atividade12\Atividade12\bin\Debug\netcoreapp3.1\Atividade12.exe
+C:\Users\786\source\repos\Atividade12\Atividade12\bin\Debug\netcoreapp3.1\Atividade12.deps.json
+C:\Users\786\source\repos\Atividade12\Atividade12\bin\Debug\netcoreapp3.1\Atividade12.runtimeconfig.json
+C:\Users\786\source\repos\Atividade12\Atividade12\bin\Debug\netcoreapp3.1\Atividade12.runtimeconfig.dev.json
+C:\Users\786\source\repos\Atividade12\Atividade12\bin\Debug\netcoreapp3.1\Atividade12.dll
+C:\Users\786\source\repos\Atividade12\Atividade12\bin\Debug\netcoreapp3.1\Atividade12.pdb
+C:\Users\786\source\repos\Atividade12\Atividade12\obj\Debug\netcoreapp3.1\Atividade12.AssemblyInfoInputs.cache
+C:\Users\786\source\repos\Atividade12\Atividade12\obj\Debug\netcoreapp3.1\Atividade12.AssemblyInfo.cs
+C:\Users\786\source\repos\Atividade12\Atividade12\obj\Debug\netcoreapp3.1\Atividade12.csproj.CoreCompileInputs.cache
+C:\Users\786\source\repos\Atividade12\Atividade12\obj\Debug\netcoreapp3.1\Atividade12.dll
+C:\Users\786\source\repos\Atividade12\Atividade12\obj\Debug\netcoreapp3.1\Atividade12.pdb
+C:\Users\786\source\repos\Atividade12\Atividade12\obj\Debug\netcoreapp3.1\Atividade12.genruntimeconfig.cache
+C:\Users\786\source\repos\Atividade12\Atividade12\obj\Debug\netcoreapp3.1\Atividade12.csproj.AssemblyReference.cache
